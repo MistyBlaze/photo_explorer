@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Desktop\\photo_explorer_api\\.dart_tool\\flutter_build\\afc79ba9fc0e723e05c4a4210879e72b\\native_assets.yaml: 

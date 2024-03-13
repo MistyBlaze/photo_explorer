@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Desktop\\unsplash_api_test\\.dart_tool\\flutter_build\\ff1c1d6a84b1c49efec5afc6e789f3e1\\native_assets.yaml: 
